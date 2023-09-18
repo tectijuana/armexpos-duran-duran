@@ -2,7 +2,7 @@
 
 Borrar y modificar a su gusto este README, pero antes utilizar estas condiciones de entrega del trabajo.
 
-# Utilizar los dos directorios
+# Equipo 4 EJECUCION DE CONDICIONALES
 
 - code  - ahi depositar sus programas los ***archivos extensión *.s****  (Source File) algunos autores en x86 de ponen .asm y en otras plataformas ARM compatibles la extension *.elf
 - Todo programa lleva su comentario en la parte de arriba, objetivo y nombre del programador minimo.
