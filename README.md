@@ -4,9 +4,8 @@ Borrar y modificar a su gusto este README, pero antes utilizar estas condiciones
 
 # Equipo 4 EJECUCION DE CONDICIONALES
 
-- code  - ahi depositar sus programas los ***archivos extensión *.s****  (Source File) algunos autores en x86 de ponen .asm y en otras plataformas ARM compatibles la extension *.elf
-- Todo programa lleva su comentario en la parte de arriba, objetivo y nombre del programador minimo.
-- images  - de haber algo de pantallas ahi se presentaran, su busca documentarlas en MARKDOWN el código es:
+-Link para  unirse al grupo de wats
+https://chat.whatsapp.com/F2orRzEoaAcEsSSmMPbHvT
 
 ``` ![](images/---archivo.jpg---) recordar que no lleva espacios```
 
