@@ -16,4 +16,5 @@ Siqueiros Valdes Ivan Antonio
 
 
 
-
+# FUENTES UTILES
+https://azeria-labs.com/arm-conditional-execution-and-branching-part-6/
