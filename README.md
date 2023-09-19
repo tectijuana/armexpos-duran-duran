@@ -7,7 +7,8 @@ Borrar y modificar a su gusto este README, pero antes utilizar estas condiciones
 -Link para  unirse al grupo de wats
 https://chat.whatsapp.com/F2orRzEoaAcEsSSmMPbHvT
 
-``` ![](images/---archivo.jpg---) recordar que no lleva espacios```
+A nosotros nos toco el tema de ejecucion de condicionales
+![](https://i.imgur.com/Ro3FCuD.png)
 
 
 
