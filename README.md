@@ -18,6 +18,7 @@ Corrales Quintero Erick Roberto
 
 Bringas Alvarado Manuel Abraham
 
+Ortega Jimenez Jordi Joel
 
 # FUENTES UTILES
 https://azeria-labs.com/arm-conditional-execution-and-branching-part-6/
