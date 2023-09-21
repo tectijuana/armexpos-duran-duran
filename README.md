@@ -24,6 +24,8 @@ Ortega Jimenez Jordi Joel
 
 Valle Sanchez Leidy Lizeth
 
+San Roman Castillo Gabriel
+
 # Estructura general
 Se van a explicar 4 condincionales de las cuales vamos a poner la definicion, un ejemplo y el debugeo del ejemplo
 
