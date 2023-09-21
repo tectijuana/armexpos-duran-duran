@@ -37,7 +37,7 @@ Debuggeo-Nombre del Integrantes
 
 3. GE (Signed >=)
 Definicion-Bringas Alvarado Manuel Abraham
-Debuggeo-
+Debuggeo-San Roman Castillo 
 
 4. Nombre de la condicional
 Definicion-Nombre del Integrante
