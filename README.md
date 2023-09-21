@@ -24,7 +24,24 @@ Ortega Jimenez Jordi Joel
 
 Valle Sanchez Leidy Lizeth
 
-San Roman Castillo Gabriel
+# Estructura general
+Se van a explicar 4 condincionales de las cuales vamos a poner la definicion, un ejemplo y el debugeo del ejemplo
+--Se tendran que organizar para hacerlo, pls uwu
+1. EQ(Equals)
+Definicion EQ Erick Roberto
+Debuggeo
+
+2. Nombre de la condicional
+Definicion-Nombre del Integrante
+Debuggeo-Nombre del Integrantes
+
+3. Nombre de la condicional
+Definicion-Nombre del Integrante
+Debuggeo-Nombre del Integrantes
+
+4. Nombre de la condicional
+Definicion-Nombre del Integrante
+Debuggeo-Nombre del Integrantes
 
 # FUENTES UTILES
 https://azeria-labs.com/arm-conditional-execution-and-branching-part-6/
