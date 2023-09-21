@@ -46,7 +46,7 @@ Se van a explicar 4 condincionales de las cuales vamos a poner la definicion, un
 
   Definicion-Bringas Alvarado Manuel Abraham
 
-  Debuggeo-San Roman Castillo 
+  Debuggeo-San Roman Castillo Gabriel
 
 4. Nombre de la condicional
 
