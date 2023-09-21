@@ -31,8 +31,8 @@ Se van a explicar 4 condincionales de las cuales vamos a poner la definicion, un
 Definicion EQ Erick Roberto
 Debuggeo
 
-2. Nombre de la condicional
-Definicion-Nombre del Integrante
+2. NE (Not Equal)
+Definicion-Valle Sanchez Leidy Lizeth
 Debuggeo-Nombre del Integrantes
 
 3. Nombre de la condicional
