@@ -14,9 +14,11 @@ A nosotros nos toco el tema de ejecucion de condicionales
 # INTEGRANTES DEL EQUIPO
 Siqueiros Valdes Ivan Antonio
 
+Bringas Alvarado Manuel Abraham
+
 Corrales Quintero Erick Roberto
 
-Bringas Alvarado Manuel Abraham
+Garcia Cerrillo Angel Albino
 
 Ortega Jimenez Jordi Joel
 
