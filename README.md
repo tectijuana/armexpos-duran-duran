@@ -35,9 +35,9 @@ Debuggeo
 Definicion-Valle Sanchez Leidy Lizeth
 Debuggeo-Nombre del Integrantes
 
-3. Nombre de la condicional
-Definicion-Nombre del Integrante
-Debuggeo-Nombre del Integrantes
+3. GE (Signed >=)
+Definicion-Bringas Alvarado Manuel Abraham
+Debuggeo-
 
 4. Nombre de la condicional
 Definicion-Nombre del Integrante
