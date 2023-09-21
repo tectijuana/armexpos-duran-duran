@@ -29,18 +29,22 @@ Se van a explicar 4 condincionales de las cuales vamos a poner la definicion, un
 --Se tendran que organizar para hacerlo, pls uwu
 1. EQ(Equals)
 Definicion EQ Erick Roberto
+
 Debuggeo
 
 2. NE (Not Equal)
 Definicion-Valle Sanchez Leidy Lizeth
+
 Debuggeo-Nombre del Integrantes
 
 3. GE (Signed >=)
 Definicion-Bringas Alvarado Manuel Abraham
+
 Debuggeo-San Roman Castillo 
 
 4. Nombre de la condicional
 Definicion-Nombre del Integrante
+
 Debuggeo-Nombre del Integrantes
 
 # FUENTES UTILES
