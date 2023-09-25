@@ -48,7 +48,10 @@ Ejemplos
 
 2 == 2 = 1
 
-’abc’ = ’abcd’ ® 0
+’abc’ = ’abcd’ = 0
+
+Ejemplo
+
 
   Debuggeo
 
