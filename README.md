@@ -48,9 +48,15 @@ Se van a explicar 4 condincionales de las cuales vamos a poner la definicion, un
 
   Debuggeo-San Roman Castillo Gabriel
 
-4. Nombre de la condicional
+4. LT (signed <)
 
-  Definicion-Nombre del Integrante
+  La condición "LT" (Less Than) en ARM se utiliza para comparar dos valores con signo y determinar si el primer valor 
+  es estrictamente menor que el segundo valor. En este contexto, "signed" significa que se 
+  están considerando los números como valores con signo, es decir, números positivos y negativos.
+
+  La instrucción "LT" en ARM se usa típicamente en combinación con las instrucciones de salto condicional para 
+  tomar decisiones basadas en la comparación de valores. A continuación
+  - Ortega Jimenez Jordi Joel
 
   Debuggeo-Nombre del Integrantes
 
