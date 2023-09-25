@@ -44,9 +44,13 @@ Se van a explicar 4 condincionales de las cuales vamos a poner la definicion, un
 
 3. GE (Signed >=)
 
+![image](https://github.com/tectijuana/armexpos-duran-duran/assets/99369099/508969b6-0bca-4987-8c9d-6184fcaa0918)
+
+
   La condicional "GE" se utiliza para verificar si un número con signo es mayor o igual a cero. Esta condición se basa en el 
   resultado de una instrucción de comparación anterior y se utiliza en combinación con instrucciones de salto condicional
   para tomar decisiones en función de si el valor es mayor o igual a cero.
+
 
   Debuggeo-San Roman Castillo Gabriel
 
