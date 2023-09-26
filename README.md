@@ -43,11 +43,11 @@ EQ equivale a 1 (verdadero) si sus dos operandos son idénticos en valor, o equi
 
     Ejemplos
        
-1 = 2 = 0
+1 == 2 = 0
 
 2 == 2 = 1
 
-’abc’ = ’abcd’ = 0
+’abc’ == ’abcd’ = 0
 
 Ejemplo
 
