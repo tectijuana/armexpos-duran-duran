@@ -29,10 +29,9 @@ San Roman Castillo Gabriel
 # Estructura general
 Se van a explicar 4 condincionales de las cuales vamos a poner la definicion, un ejemplo y el debugeo del ejemplo
 
---Se tendran que organizar para hacerlo
-1. EQ(Equals)
+                                                      1. EQ(Equals)
 
-  Definicion EQ Erick Roberto
+  Definicion EQ
  
 EQ, =, ==
 
