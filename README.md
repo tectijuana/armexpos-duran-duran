@@ -89,3 +89,5 @@ https://www.fdi.ucm.es/profesor/rhermida/FC_practica1.pdf
 
 # FUENTES UTILES
 https://azeria-labs.com/arm-conditional-execution-and-branching-part-6/
+https://cpulator.01xz.net/?loadasm=share/tmbG7ik.s&sys=arm
+
