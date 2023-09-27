@@ -59,7 +59,7 @@ Ejemplo
 2. NE (Not Equal)
 
   Definicion-Valle Sanchez Leidy Lizeth
-
+  Es un término utilizado en el contexto de operaciones de comparación en matemáticas y programación para indicar que dos valores no son iguales entre sí. particularmente en lenguajes de programación y expresiones condicionales, se utiliza el operador "!=" o "<>" para expresar la desigualdad entre dos valores. se utiliza para indicar que dos valores no son iguales, y es un concepto fundamental en la programación y las operaciones de comparación en matemáticas y lenguajes de programación.
   Debuggeo-Nombre del Integrantes
 
 3. GE (Signed >=)
