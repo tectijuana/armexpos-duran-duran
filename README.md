@@ -41,7 +41,7 @@ Igual
 
 EQ equivale a 1 (verdadero) si sus dos operandos son idénticos en valor, o equivale a 0 (falso) si sus dos operandos no son idénticos en valor.
 
-    Ejemplos
+                                                        Ejemplos
        
 1 == 2 = 0
 
