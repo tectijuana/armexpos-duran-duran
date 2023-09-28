@@ -94,6 +94,31 @@ https://www.fdi.ucm.es/profesor/rhermida/FC_practica1.pdf
 
   Debuggeo-San Roman Castillo Gabriel
 
+    /*
+    Ejemplo Del Uso de la condicional GE
+    */
+    .text
+    .global main
+
+    main:
+        mov r0, #10      @ Carga el valor 10 en el registro r0
+        mov r1, #5       @ Carga el valor 5 en el registro r1
+    
+        cmp r0, r1       @ Compara r0 y r1
+        bge greater_than_or_equal
+    
+        mov r2, #0       @ Si r0 < r1, carga 0 en r2
+    b end_program
+
+    greater_than_or_equal:
+        mov r2, #1       @ Si r0 >= r1, carga 1 en r2
+    
+    end_program:
+        @ Tu código continúa aquí (puede haber más instrucciones)
+
+    bx lr             @ Salto de regreso para salir de la función main
+
+
 4. LT (signed <)
 
   La condición "LT" (Less Than) en ARM se utiliza para comparar dos valores con signo y determinar si el primer valor 
