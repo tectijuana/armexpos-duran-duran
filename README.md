@@ -165,12 +165,18 @@ https://www.fdi.ucm.es/profesor/rhermida/FC_practica1.pdf
     fin:
       mov R7, #1       @ Código de salida de la llamada al sistema
       swi 0x11          @ Llamada al sistema para salir del programa
-      
-  5.MI (Overflow Condition Set):
+  8.GT (Greater than)
+  La instrucción GT (Greater Than) en la arquitectura ARM no es una instrucción específica. En su lugar, la arquitectura ARM utiliza una serie de instrucciones condicionales para comparar valores y tomar decisiones basadas en el resultado de esas comparaciones.
+    CMP R0, R1    @ Compara el valor en R0 con el valor en R1
+    BGT mayor     @ Salta a "mayor" si R0 es mayor que R1
+    @ Si no se cumple la condición (R0 no es mayor que R1), continúa aquí
+
+  6.MI (Overflow Condition Set):
 La instrucción MI se utiliza para realizar una operación condicional en función del estado de desbordamiento negativo (N) en la arquitectura ARM. Se ejecuta si el bit N está activado, lo que indica un resultado negativo.
 
-  6.PL (Overflow Condition Clear):
+  7.PL (Overflow Condition Clear):
 Descripción: La instrucción PL se utiliza para realizar una operación condicional en función del estado de desbordamiento negativo (N) en la arquitectura ARM. Se ejecuta si el bit N está desactivado, lo que indica un resultado no negativo (positivo o cero).
+
 # FUENTES UTILES
 https://azeria-labs.com/arm-conditional-execution-and-branching-part-6/
 https://cpulator.01xz.net/?loadasm=share/tmbG7ik.s&sys=arm
