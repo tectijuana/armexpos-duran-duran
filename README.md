@@ -50,7 +50,7 @@ EQ equivale a 1 (verdadero) si sus dos operandos son idénticos en valor, o equi
 ’abc’ == ’abcd’ = 0
 
 
-  Debuggeo
+                                                        Debuggeo
   
 MOV R1,#10
 
