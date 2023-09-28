@@ -40,7 +40,7 @@ Igual
                                                       Descripción
 
 EQ equivale a 1 (verdadero) si sus dos operandos son idénticos en valor, o equivale a 0 (falso) si sus dos operandos no son idénticos en valor.
-Se utiliza con una instrucción de comparación, lo que permite hacer salto de flujo en el programa dependiendo de si los valores son iguales o no.
+Se utiliza con una instrucción de comparación, lo que permite hacer saltos de flujo en el programa dependiendo de si los valores son iguales o no.
 
                                                         Ejemplos
        
