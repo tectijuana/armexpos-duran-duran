@@ -55,10 +55,15 @@ Ejemplo
 
 
   Debuggeo
+  
 MOV R1,#10
+
 MOV R2, #10
+
 CMP R1,R2 (Se modifican las banderas Z===1)
+
 ADDEQ R3,R1,R2 (Z==1)????
+
 ADD R1, #-10
 
 2. NE (Not Equal)
@@ -67,11 +72,17 @@ ADD R1, #-10
   
   Es un término utilizado en el contexto de operaciones de comparación en matemáticas y programación para indicar que dos valores no son iguales entre sí. particularmente en lenguajes de programación y expresiones condicionales, se utiliza el operador "!=" o "<>" para expresar la desigualdad entre dos valores. se utiliza para indicar que dos valores no son iguales, y es un concepto fundamental en la programación y las operaciones de comparación en matemáticas y lenguajes de programación.
   
+
 Debuggeo
+
 MOV R1,#10
+
 MOV R2, #10
+
 CMP R1,R2 (Se modifican las banderas Z===0)
+
 ADDNE R1, #-10 (Z==0)????
+
 ADD R3,R1,R2
 
 
@@ -98,10 +109,15 @@ https://www.fdi.ucm.es/profesor/rhermida/FC_practica1.pdf
   - Ortega Jimenez Jordi Joel
 
   Debuggeo-
+
 MOV R1, #-1
+
 MOV R2, #5
+
 CMP R1,R2 (Se modifican las banderas N==1)
+
 ADDLT R1, #1 (N==1)????
+
 ADD R3,R1,R2
 
 # FUENTES UTILES
