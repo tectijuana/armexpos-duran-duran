@@ -106,7 +106,44 @@ https://www.fdi.ucm.es/profesor/rhermida/FC_practica1.pdf
 
   La instrucción "LT" en ARM se usa típicamente en combinación con las instrucciones de salto condicional para 
   tomar decisiones basadas en la comparación de valores. A continuación
-  - Ortega Jimenez Jordi Joel
+  Ejemplo:
+
+.data
+    mensaje:    .asciz "El primer número es menor que el segundo.\n"
+    no_mensaje: .asciz "El primer número NO es menor que el segundo.\n"
+
+.text
+.global main
+
+main:
+    @ Supongamos que tenemos dos números en los registros R0 y R1
+    @ R0 contiene 5 y R1 contiene 10 (puedes cambiar estos valores según tus necesidades).
+
+    CMP R0, R1     @ Compara R0 y R1
+    BGT no_menor   @ Salta a no_menor si R0 > R1
+
+    @ Si llegamos aquí, significa que R0 no es mayor que R1 (es decir, R0 < R1)
+    @ Imprimimos el mensaje correspondiente.
+    mov R0, #1      @ R0 se usa para el file descriptor (stdout)
+    LDR R1, =mensaje @ Cargamos la dirección del mensaje en R1
+    mov R2, #32     @ R2 es la longitud del mensaje
+    mov R7, #4      @ Código de llamada para escribir (sys_write)
+    swi 0            @ Llamada al sistema para escribir en la consola
+    b fin
+
+no_menor:
+    @ Si llegamos aquí, significa que R0 es mayor que R1
+    @ Imprimimos el otro mensaje.
+    mov R0, #1        @ R0 se usa para el file descriptor (stdout)
+    LDR R1, =no_mensaje @ Cargamos la dirección del mensaje en R1
+    mov R2, #42       @ R2 es la longitud del mensaje
+    mov R7, #4         @ Código de llamada para escribir (sys_write)
+    swi 0             @ Llamada al sistema para escribir en la consola
+
+fin:
+    mov R7, #1       @ Código de salida de la llamada al sistema
+    swi 0x11          @ Llamada al sistema para salir del programa
+
 
   Debuggeo-
 
