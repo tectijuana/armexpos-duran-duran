@@ -56,7 +56,7 @@ MOV R1,#10
 
 MOV R2, #10
 
-CMP R1,R2 (Se modifican las banderas Z===1)
+CMP R1,R2 (Se modifican la bandera Z == 1)
 
 ADDEQ R3,R1,R2 (Z==1)????
 
