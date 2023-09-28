@@ -98,9 +98,9 @@ https://www.fdi.ucm.es/profesor/rhermida/FC_practica1.pdf
     Ejemplo Del Uso de la condicional GE
     */
     .text
-    .global main
+    .global _start  
 
-    main:
+    _start:
         mov r0, #10      @ Carga el valor 10 en el registro r0
         mov r1, #5       @ Carga el valor 5 en el registro r1
     
