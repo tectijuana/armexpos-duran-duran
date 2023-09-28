@@ -165,7 +165,7 @@ https://www.fdi.ucm.es/profesor/rhermida/FC_practica1.pdf
     fin:
       mov R7, #1       @ Código de salida de la llamada al sistema
       swi 0x11          @ Llamada al sistema para salir del programa
-  8.GT (Greater than)
+  5.GT (Greater than)
   La instrucción GT (Greater Than) en la arquitectura ARM no es una instrucción específica. En su lugar, la arquitectura ARM utiliza una serie de instrucciones condicionales para comparar valores y tomar decisiones basadas en el resultado de esas comparaciones.
     CMP R0, R1    @ Compara el valor en R0 con el valor en R1
     BGT mayor     @ Salta a "mayor" si R0 es mayor que R1
