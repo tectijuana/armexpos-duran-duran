@@ -165,7 +165,12 @@ https://www.fdi.ucm.es/profesor/rhermida/FC_practica1.pdf
     fin:
       mov R7, #1       @ Código de salida de la llamada al sistema
       swi 0x11          @ Llamada al sistema para salir del programa
+      
+  5.MI (Overflow Condition Set):
+La instrucción MI se utiliza para realizar una operación condicional en función del estado de desbordamiento negativo (N) en la arquitectura ARM. Se ejecuta si el bit N está activado, lo que indica un resultado negativo.
 
+  6.PL (Overflow Condition Clear):
+Descripción: La instrucción PL se utiliza para realizar una operación condicional en función del estado de desbordamiento negativo (N) en la arquitectura ARM. Se ejecuta si el bit N está desactivado, lo que indica un resultado no negativo (positivo o cero).
 # FUENTES UTILES
 https://azeria-labs.com/arm-conditional-execution-and-branching-part-6/
 https://cpulator.01xz.net/?loadasm=share/tmbG7ik.s&sys=arm
