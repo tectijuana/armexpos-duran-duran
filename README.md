@@ -139,7 +139,7 @@ https://www.fdi.ucm.es/profesor/rhermida/FC_practica1.pdf
 
     main:
       @ Supongamos que tenemos dos números en los registros R0 y R1
-      @ R0 contiene 5 y R1 contiene 10 (puedes cambiar estos valores según tus necesidades).
+      @ R0 contiene 10 y R1 contiene 5 (puedes cambiar estos valores según tus necesidades).
 
       CMP R0, R1     @ Compara R0 y R1
       BGT no_menor   @ Salta a no_menor si R0 > R1
