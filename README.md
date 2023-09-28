@@ -144,18 +144,6 @@ https://www.fdi.ucm.es/profesor/rhermida/FC_practica1.pdf
       mov R7, #1       @ Código de salida de la llamada al sistema
       swi 0x11          @ Llamada al sistema para salir del programa
 
-  Debuggeo-
-
-MOV R1, #-1
-
-MOV R2, #5
-
-CMP R1,R2 (Se modifican las banderas N==1)
-
-ADDLT R1, #1 (N==1)????
-
-ADD R3,R1,R2
-
 # FUENTES UTILES
 https://azeria-labs.com/arm-conditional-execution-and-branching-part-6/
 https://cpulator.01xz.net/?loadasm=share/tmbG7ik.s&sys=arm
